@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contexts>
+    <!--This is a generated file.-->
+    <!--User modifications to the values in this file will be preserved-->
+    <context id="com.ibm.connectors.AmazonSQS.ComIbmPollingInput" title="AmazonSQSInput">
+        <description>AmazonSQSInput</description>
+    </context>
+    <context id="com.ibm.connectors.AmazonSQS.ComIbmOutput" title="AmazonSQSOutput">
+        <description>AmazonSQSOutput</description>
+    </context>
+</contexts>
